@@ -103,7 +103,7 @@ iris_streamlit_app/
 
 ### 👨‍💻 Author
 
-**Your Name**
+**Annrhayan23**
 [GitHub](https://github.com/Annrhayan23) • [LinkedIn](www.linkedin.com/in/ann-rhayan-1a1372291)
 
 ---
